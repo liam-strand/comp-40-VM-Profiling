@@ -1,0 +1,6 @@
+[submodule "profiling"]
+	path = profiling
+	url = git@github.com:liam-strand/hw7-profiling.git
+[submodule "VM"]
+	path = VM
+	url = git@github.com:liam-strand/hw6-um.git
