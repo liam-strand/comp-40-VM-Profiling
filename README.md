@@ -7,5 +7,7 @@ This repository contains symbolic links to two submodules.
 
 Unfortunately the code can not be kept in a public repository due to accademic integrity concerns, so these two submodules are private. If you would like to examine any of the above code or see the documentation, please reach out via [email](mailto:strandliam@gmail.com), Github [issue](https://github.com/liam-strand/comp-40-VM-Profiling/issues/new/choose), or carrier pigeon!
 
+You can see a demo of this work [here](https://youtu.be/OnzkSmFvxiM)!
+
 Best,\
 Liam
